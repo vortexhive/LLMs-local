@@ -1,6 +1,9 @@
 # LLMs-local
  list of awesome platforms, tools, and resources   run for LLMs locally
 
+ 
+<img src="https://preview.redd.it/my-160gb-local-llm-rig-v0-qukd2c1lzk5f1.jpeg?auto=webp&s=eda341738c4e87aa8d6940d138804df741ea2b08">
+
 ## Table of Contents
 
 - [Inference platforms](#inference-platforms)
